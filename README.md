@@ -1,2 +1,10 @@
-# Project-1-Hr-analytics-dashboard-excel
-An interactive Excel dashboard that organizes raw HR data across 3 structured sheets (Data, Pivot Tables, Dashboard) to analyze key workforce metrics and employee attrition.
+# HR Analytics Dashboard (Excel)
+
+## Project Structure
+Is project ko organize karne ke liye maine 3 alag sheets ka use kiya hai:
+- Data Set: Isme company ka raw HR data hai.
+- Pivot Tables: Is sheet mein saare back-end calculations aur summary banayi hai.
+- Dashboard: Yeh main interactive screen hai jahan charts aur slicers hain.
+
+## Dashboard Preview
+![HR Analytics Dashboard](project%201/dashboard.png)
