@@ -7,4 +7,4 @@ Is project ko organize karne ke liye maine 3 alag sheets ka use kiya hai:
 - Dashboard: Yeh main interactive screen hai jahan charts aur slicers hain.
 
 ## Dashboard Preview
-![HR Analytics Dashboard](project%201/dashboard.png)
+![HR Analytics Dashboard](dashboard.png)
